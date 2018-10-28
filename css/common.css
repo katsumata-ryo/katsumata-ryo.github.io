@@ -39,6 +39,5 @@ ul {
 }
 li {
   list-style: none inside;
-  display: inline;
   padding: 0 10px;
 }
